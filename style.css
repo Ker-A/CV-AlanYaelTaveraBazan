@@ -94,7 +94,9 @@ button{
     align-items: center;
     margin: 2rem 0;
 }
-
+a[download] {
+    text-decoration: none;
+}
 
 /***btn hover*/
 button:hover,  .btnProyect:hover{
